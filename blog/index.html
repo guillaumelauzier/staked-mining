@@ -11,16 +11,6 @@ description: Keep up with the latest news.
 
 	{% if paginator.total_pages > 1 %}
 		<!-- Pagination links -->
-		<div class="pagination">
-			{% if paginator.previous_page %}
-				<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Newer posts</a>
-			{% endif %}
-
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-			{% if paginator.next_page %}
-				<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Older posts &rarr;</a>
-			{% endif %}
-		</div>
+		<a class="twitter-timeline" href="https://twitter.com/stakedmining?ref_src=twsrc%5Etfw">Tweets by stakedmining</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	{% endif %}
 </div>
