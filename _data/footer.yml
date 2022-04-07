@@ -1,6 +1,6 @@
 - links:
-  - name: Pricing
-    link: /pricing/
+  - name: Get Started
+    link: /getstarted/
   - name: Blog
     link: /blog/
   - name: About
@@ -8,11 +8,8 @@
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
-    link: /
-    new_window: true
   - name: Sign Up
-    link: /
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdeMphduHpnJ6j0BGnrS1w4kZgdRuYvVo1wWNtgYX0Hl9qDdw/viewform
     new_window: true
   - name: Docs
     link: /
