@@ -1,5 +1,5 @@
-- name: Pricing
-  link: /pricing/
+- name: Get Started
+  link: /getstarted/
   new_window: false
   highlight: false
 - name: Blog
