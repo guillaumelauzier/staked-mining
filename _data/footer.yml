@@ -5,6 +5,8 @@
     link: /blog/
   - name: About
     link: /about/
+  - name: Mining Stats
+    link: /miningstats/
   - name: Contact
     link: /contact/
 - links:
