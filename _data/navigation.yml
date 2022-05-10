@@ -1,7 +1,4 @@
-- name: Get Started
-  link: /getstarted/
-  new_window: false
-  highlight: false
+
 - name: About
   link: /about/
   new_window: false
